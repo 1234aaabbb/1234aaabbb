@@ -1,3 +1,3 @@
 - Hi, I’m @1234aaabbb
-- i am learning python can't do
+- i am learning python
 - contact ふぁんてぁ#0225
