@@ -1,3 +1,1 @@
-- Hi, I’m @1234aaabbb
-- i am learning python
-- contact ふぁんてぁ#0225
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1234aaabbb)](https://github.com/anuraghazra/github-readme-stats)
